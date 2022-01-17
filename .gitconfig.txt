@@ -1,0 +1,3 @@
+[user]
+	email=farizaposho@gmail.com
+	name=farizaJaborova
